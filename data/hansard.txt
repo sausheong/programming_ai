@@ -1,0 +1,814 @@
+COMMITTEE OF SUPPLY – HEAD Q (MINISTRY OF COMMUNICATIONS AND INFORMATION)
+
+(A resilient economy with diverse pathways and opportunities for all)
+4.15 pm
+
+The Chairman: Head Q, Ministry of Communications and Information. Ms Tin Pei Ling.
+
+Investing in Smart Future
+
+Ms Tin Pei Ling (MacPherson): Mdm Chairman, I beg to move, "That the total sum to be allocated for Head Q of the Estimates be reduced by $100".
+
+Throughout history, the mastery of technology has been essential for a nation's progress and its ability to compete strategically. This importance has only heightened in the modern era. Hence, by investing in critical infrastructure, innovation and talent development, countries can position themselves as leaders in emerging technologies and shape the future of the global economy and geopolitical landscape. 
+
+Singapore, as a small and open economy, does not aspire to be a superpower but we too must invest so as to overcome productivity challenges, unlock new economic potential and do good for our people.
+
+New game changing technologies emerge over time. Disruptions brought about by such technologies are happening more frequently and quickly. Amidst key digital developments, Artificial Intelligence (AI) is now taking centre stage. In the book, "The Coming Wave" by DeepMind founder Mustafa Suleyman, he argued that the coming decade will be defined by a wave of powerful, fast-proliferating new technologies and AI is central to this wave. 
+
+Some of the breakthroughs in AI took place in an unexpected manner and accelerated progress significantly. So, we must be prepared for a future in which AI is pervasive in almost all aspects of our lives. 
+
+Yet, AI, if left to develop irresponsibly, could bring about significant harms too. Hence, the task of maintaining human control over powerful technologies is an essential challenge of our time. 
+
+While that sounds ominously frightening, technology is but a tool – good or bad depends on who wields it. Singapore believes that AI can be a potent force for good – to uplift human potential and to unlock economic opportunities, as set out in the National AI Strategy 2.0. Notably, there is a shift in the AI strategy, seeing AI as a "necessity" and no longer just an "opportunity".
+
+Given this shift in belief, Singapore needs to invest even more in digital infrastructures, talents and capabilities critical to Singapore's next bound of economic development and do more to preserve and enhance digital trust as well as leveraging digital capabilities to build communities and better lives. All these in the age of AI.
+
+First, on digital infrastructure and resilience.
+
+As I had articulated in my speech during the January Motion on "Building an Inclusive and Safe Digital Society", building infrastructure ahead of demand is important to maintaining competitive edge and Singapore has always done so.
+
+Likewise, as we march on towards a smart future in the age of AI, Singapore needs to double down on our investments into higher speed networks and higher performance computing power. May I seek an update from the Ministry on what is being done to enhance investment into such digital infrastructure?
+
+Given how critical infrastructures are to deliver essential services and drive innovation, the importance of digital security and resilience cannot be undermined as they not only ensure business continuity, but also shape public confidence.
+
+As I had highlighted again in my January's Motion debate speech, with the likes of DBS' repeated digital service disruptions in 2023, CPF savings lost to Android malware scams and personal data breaches in public healthcare. Even if the incidents were no direct fault of the enterprises or institutions, these incidents would have affected significant portion of our population and, in turn, affect public's trust in digital.
+
+Regulations are effective in setting boundaries and making clear the Dos and Do nots. As technologies and especially as AI evolve, regulations will have to play catch up. But regulations alone will not be sufficient to address these issues. The solution needs to go further upstream so that companies and institutions can integrate security and resilience into their products and operations by design. Hence, may I ask what is the Government doing to update our regulations and what is being done to help companies and institutions implement higher digital security and resilience standards?
+
+In relation to this, the Government launched the Chief Information Security Officer- (CISO)-as-a-Service last year. May I ask the Minister to also give an update on the implementation of the Cybersecurity Health Plan?
+
+Secondly, to unlock economic opportunities, the industries and businesses must be able to transform adequately and quickly. The Government has introduced initiatives, such as small and medium-sized enterprise (SME) Go Digital programme in 2017, various enterprise grants over the past decade or so and implemented Industry Transformation Roadmaps that are regularly updated. These initiatives are thoughtful and beneficial. 
+
+Larger enterprises are perhaps savvier and better placed to leverage such initiatives. Some perhaps do not even need to tap into them. But for micro, small and medium-sized enterprises (MSMEs), they often lack resources and expertise to select digital solutions that could enable them to improve their productivity. So, even with grants and solutions made available to them, they run the risk of either not employing digital solutions that are beneficial to them or undertaking digital solutions that might not be relevant to them; thereby incurring unnecessary costs and transition risks. The Government introduced Chief Technology Officer or CTO-as-a-Service in 2021 to help SMEs transform. Into the third year now, how has this service fared so far? What else will the Government do to better help SMEs adopt digital solutions that are relevant to their business needs?
+
+As Singapore marches on in our digitalisation journey and as we shift our AI strategy from opportunity to necessity, I am heartened that that the Digital Connectivity Blueprint was launched in June 2023 with the aim of enhancing Singapore's digital infrastructure for enterprises and people to capture emerging opportunities in the digital space. Now that half a year has passed, could the Ministry give an update on the implementation of the plans within the Blueprint and share what preliminary results that we may have observed so far?
+
+Thirdly, we need to ensure our people are ready for what is to come. We are well aware of the opportunities and challenges that come with the new technologies and in this case, AI. I spoke about it in my past speeches in this House and my hon colleagues have also expounded the merits and issues surrounding AI several times before and I believe later as well. 
+
+One of the promises of making digital advancements was to avail better job opportunities for Singaporeans. But in recent times, we witnessed large-scale tech layoffs by the likes of Lazada, Google and Grab, arguably because they want to better align their organisational structure and resources with their new AI strategies. Affected workers were caught by surprise. Some managed to get absorbed into other firms given the tight labour market. Some took longer and had to reskill. While it is the businesses' prerogative to do so, what is clear is that our workforce must be future-ready as tech disruptions will only pick up in pace and the nature of jobs will change. 
+
+In talent development, education is important as it provides us with the foundation from which we build new knowledge and skills to keep up with new developments. But education alone is not enough. We need opportunities for our young and our talents to meet other bright minds from outside of Singapore to exchange ideas and spark off new ones. We need to have the space and platform for these bright minds to come together to learn; to research and experiment; to fail and iterate; to deliver and go to market. 
+
+Therefore, what is the Government doing to support our workforce to be AI- and future-ready and to leverage AI to remain competitive?
+
+Mdm Chairman, do I take the rest of my cuts together?
+
+The Chairman: No, I have to put the question.
+
+Ms Tin Pei Ling: Okay, then, I will pause here.
+
+Question proposed.
+
+The Chairman: Ms Tin Pei Ling, you can take your four remaining cuts together.
+
+Technology for Good
+
+Vernacular Public Communications
+
+Towards Digital Resilience
+
+Digital Trust
+
+Ms Tin Pei Ling: Continuing from my earlier speech.
+
+Fourthly, for the vision of a smart and digital future to be fully embraced by the whole-of-society, we must ensure that we use technology to bridge gaps, build communities and better lives. 
+
+Much was said about scams and how we must combat it to preserve social trust in a digital age during the January Motion debate so I would not repeat it here. 
+
+What I would like to highlight is the danger of misinformation. In my cut to the Ministry of Foreign Affairs (MFA) yesterday, I spoke of how certain messages could be spread with an intent to create schisms between Singaporeans. But there could also be other harms associated with misinformation, such as discouraging vaccinations against what could have been severe but preventable diseases. Therefore, having trustworthy public service media channels that are accessible to all demographic groups is important in combatting misinformation and maintaining a common space that is safe for all citizens. 
+
+Hence, what is the Government doing to ensure that our Public Service Media continues to safeguard our social cohesion and common space and continues to reflect our societal values, such as multiculturalism?
+
+Also, in fostering greater understanding and building communities, citizens of all ages and backgrounds must be able to communicate with each other. The ability to deliver accurate and reliable information in different languages is imperative if we are to continue engaging our seniors and various communities. Hence, what is the Government doing to preserve our vernacular capabilities and how is the Government leveraging the ever-improving technology to do so?
+
+Finally, as our society advances; as issues faced become more complex; and as our people become savvier, the Government cannot possibly solve everything on its own. As emphasised in the January's Motion debate, a whole-of-society effort is needed. How then will the Government facilitate greater citizen involvement and participation in identifying problems and co-creating successful digital solutions?
+
+In conclusion, technology advancement and the proliferation of AI are reshaping industries and the global landscape. Singapore will have to be ready for what is to come by investing ahead of time, preserving and strengthening digital trust and leverage digital capabilities to bridge gaps, build communities and better lives. 
+
+Funding for SPH Media Trust
+
+Mr Pritam Singh (Aljunied): Chair, the first tranche of public funds was disbursed to SPH Media Trust in March 2023. Over four Ministerial Statements in this House, the Government has put out its reasons for making the taxpayers subsidise the running of SPH Media Trust or at least, partly subsidising the running of SPH Media Trust.
+
+What we have been told is that public funding is needed for three reasons.
+
+First, without public funding, SPH Media Trust's transformation into a digital news company will not be able to afford the investment and costs of running its professional newsrooms, which is expected to outstrip advertising revenue given the intense competition for eyeballs online. 
+
+Second, it is in the public interest to preserve local news media, particularly those in the local vernacular languages, that are important to give voice to our multiracial communities, but which are difficult to sustain financially given their inherently smaller readership or viewership.
+
+Third, we were told public funding is necessary to support SPH Media Trust as the public will be well-served by a mainstream media that is trusted.
+
+One example of this was the Reuters Institute Digital News Report of 2021, where 77% of respondents expressed trust in The Straits Times – up from 70% in 2018. In June last year, SPH Media Trust's Audit and Risk Committee found that SPH had indeed overstated its circulation numbers between September 2020 and March 2022 and a Police report was also filed.
+
+Given the provision of taxpayer funding for SPH Media Trust, there is considerable public interest in how Singaporeans will be better served by the mainstream media in Singapore. This is represented by Singaporeans who seek greater editorial independence, a wider diversity of views, providing important feedback on Government policies and even investigative journalism on matters of significant public interest.
+
+We were told that there will be key performance indicators (KPIs) for SPH Media Trust and it has to provide the Ministry of Communication and Information (MCI) with half-yearly updates on its risk management framework. Can the Minister inform the public – who are now SPH Media Trust's stakeholders; one, what are the KPIs that SPH Media Trust has to meet under the funding framework? Two, how has SMP fared on its KPIs thus far, after being subsidised for one year? Three, which KPIs did it fail to meet and why? Four, has MCI found SPH Media Trust's half-yearly risk updates satisfactory? Five, how has SPH Media Trust addressed its risk management framework?
+
+I look forward to the Ministry's replies and request the officeholder to share under which line item and page of the Revenue and Expenditure Estimates the subsidy to SPH Media Trust is reflected at and what is the expenditure for 2023 and the amount budgeted for 2024/2025?
+
+I ask because there is not a specific line item making reference to significant market power (SMP) or SPH Media Trust.
+
+The Chairman: Mr Sharael Taha, you have six cuts. You can take them all together.
+
+4.30 pm
+
+Investment in National Artificial Intelligence Strategy (NAIS 2.0)
+
+Title of the Cut
+
+Industry Transformation Maps and Jobs Transformation Maps
+
+Supporting SMEs to Leverage AI
+
+Investment in Infrastructure for AI
+
+Support for Vernacular Papers
+
+Better Lives through Digitalisation
+
+Mr Sharael Taha (Pasir Ris-Punggol): Thank you, Mdm Chair. Madam, in the Motion on "Building an Inclusive and Safe Digital Society" that was raised by our GPC in this House last month, the House reaffirmed our commitment to adopt a whole-of-nation approach to sustain trust by building an inclusive and safe digital society.
+
+In the Budget Debate earlier this week, I shared that I am glad that we commit to invest more than $1 billion over five years for our National AI Strategy 2.0 which will focus on building the infrastructure, developing our workforce and the industry. In my next few cuts on this, I will focus on a few key items on the National AI Strategy 2.0.
+
+Firstly, how can we provide equal and equitable opportunities such that the opportunities brought about by AI do not only benefit the few at the top? I raised this during our Motion in January, too. This includes ensuring NAIS 2.0 provides opportunities for all segments of Singaporeans, bridging the gap between the haves and the have-nots and also ensuring our SMEs are involved in developing their capability.
+
+Secondly, AI is said to be a general capability that reads across industries and will have impact across multiple industries. How will NAIS 2.0 refresh our Industry Transformation Maps and Job Transformation Maps? How do we build the talent pipeline?
+
+Thirdly, how do we build the infrastructure necessary for Singapore to be a powerhouse in AI development?
+
+Lastly, how do we better lives through digitalisation?
+
+Firstly, as we go digital and embark on transformation under the National AI Strategy, how can we ensure that all segments of Singapore are able to tap on the opportunities AI and digital provide? How do we ensure the digital haves and the digital have-nots, especially school-going children from lower-income families. have equal opportunities that AI and digital provide?
+
+From a business perspective, AI is a general purpose technology that applies across industries. The technology is not confined to just companies in the tech industries or MNEs only. How can we support our SMEs across industries to leverage AI to improve their value proposition, productivity and processes?
+
+Secondly, some reports mentioned that 70% of workers will see AI impacting their current jobs. Can the Minister provide an update on the Industry and Jobs Transformation Maps across the industries? How has AI changed the Industry Transformation Maps? How do we proactively support workers who may be displaced by this technology? 
+
+Through NAIS 2.0, how do we identify opportunities for our workers to upskill and apply AI in their jobs to boost their productivity and add value to the industries that they are in?
+
+It is also anticipated that more than 15,000 workers are required in the AI field. How will MCI work together with MOM to deliver the 15,000 AI practitioners required in the industry? How can we have specific Career Conversion Programmes to provide more talent with this skillset?
+
+ As we build the critical mass of practitioners, we will also have to develop our depth talent in the industry. At the top end, how do we attract world-class talents to bring AI capability into Singapore? How do we build our own depth capability with researchers in AI in our local institutions?
+
+Thirdly, Mdm Chair, to develop a thriving AI industry ecosystem in Singapore, we must develop the infrastructure to stay ahead of the emerging trends and demands. Other than fast network speeds, high-performance computing capability is also a necessity for AI. What are the Government’s plans to build compute capacity to support our growing AI and digitalisation needs? How do we secure the chips and not be overly reliant on a single source? And how can we develop this energy-intensive, high-performance computing sustainably for Singapore?
+
+Lastly, given the success of platforms, such as Singpass, Healthhub and so on, how can we continue to better Singaporeans’ lives through digital? How can we provide Singaporeans easier access to Government services through digital? How can we use digital and technology to assist residents with special needs, such as the visually handicapped and our seniors? How can we use digital to bring our community closer together?
+
+Support for Vernacular Papers
+
+Mdm Chair, for my next cut, in Malay please.
+
+(In Malay): [Please refer to Vernacular Speech.] Since 2023, Berita Harian has transformed and shifted its focus from a newspaper that is exclusively print-only media to a digitally-ready platform. It now offers many innovative products in the Malay language and on multiple digital platforms to engage current and new readers.
+
+From a podcast like #notapis, Instagram Reels, Tiktok, BH Hub, BH lab, innovative content, and even organising community forums, the Berita Harian team has transformed how news is delivered to Malay readers, in line with the needs of the community.
+
+My first question is how do we continue to support Berita Harian in terms of its manpower or budget to continue developing these Malay language products?
+
+Secondly, although the Malay language has a small user base in Singapore, there are many more Malay readers in the region.
+
+As we strive towards building a Community of Success, how can we support Berita Harian's capabilities so that it can provide a Singaporean Malay perspective on current affairs for the region?
+
+GenAI Sandbox
+
+Mr Mark Lee (Nominated Member): Madam, the GenAI Sandbox by Enterprise Singapore and the Infocomm Media Development Authority (IMDA) is a welcome initiative for SMEs to tap on Generative AI (GenAI) to enhance their operations, products and services. I would like to ask the Minister to consider a tiered support approach to encourage businesses to adopt increasingly advanced technologies – a lower tier of 20% for back office and operational digitalisation, all the way to top tier of 60% for using AI technology, and for grants to support further customisation requirements as well dataset creation.
+
+Additionally, as AI adoption grows, will MCI introduce governance and ethical frameworks to ensure AI's responsible and effective use?
+
+The Chairman: Mr Alex Yam. Not here. Mr Christopher de Souza.
+
+Mr Christopher de Souza (Holland-Bukit Timah): Mdm Chair, I have three cuts. May I take them together?
+
+The Chairman: Yes, please take them together.
+
+AI – Governance and International Cooperation
+
+Mr Christopher de Souza: Thank you. Singapore launched AI Verify in 2022 as one of the world's first AI governance testing framework and toolkits. The idea behind AI Verify is to provide objective verifiability for AI systems used by companies so that they can show that the AI system is working as it has claimed.
+
+As one might imagine, AI Verify can play a highly crucial role in the implementation and enforcement of AI regulations, which are starting to emerge around the world, such as the EU AI Act. IMDA is already working on this with international partners. For instance, last year, it announced a crosswalk with the AI risk management framework of the US National Institute of Standards and Technology. This is essentially a mapping exercise that maps elements of AI Verify to the US framework.
+
+What is MCI's plan to continue to place Singapore at the forefront of AI innovation and governance, and what further plans are there to work with other countries in developing governance frameworks?
+
+AI – Dangers of Deepfake Generative AI
+
+Madam Chair, with the rise of GenAI comes the prevalence of deepfake images and other content, which allow an individual to maliciously use such content for personal gain or to harm others. This has led to a proliferation of scams, frauds and even harassment through deepfake explicit images. This also threatens commercial businesses and industries, such as through deepfake advertisements, and affects the media and political arena.
+
+The threat of such content is because even when people know an AI-generated image is fake, the perception that people retain could nonetheless be swayed. Similarly, even if deepfake explicit images are known to be fake, the damage to an individual might already be irrecoverable.
+
+How is MCI monitoring the situation to ensure the dangers of such GenAI do not harm our economy and social compact?
+
+[Mr Speaker in the Chair]
+
+AI – Digital Security and Safety
+
+Mr Chairman, as our society transforms, as our citizens learn to use AI, we must consider how we might protect them in the midst of the transition and going forward.
+
+While we want to build an AI-enabled society and bring everyone along in the transition, digital security and safety are key in ensuring the transition is smooth and encouraging to all individuals. We need to ensure that the risks are properly allocated to the right commercial entities to incentivise risk management and risk thinking.
+
+That would allow market forces to naturally balance the interests of the national economy with the interests of protecting individual consumers and users. By engaging with corporate partners, the regulation can take in industry feedback to tailor our governance for Singapore's society.
+
+The Chairman: Mr Xie Yao Quan, you may take your four cuts together.
+
+AI Verify
+
+Mr Xie Yao Quan (Jurong): Mr Chairman, we have introduced AI Verify last year to help develop testing tools for the responsible use of AI. How has the programme developed and what are our next steps to ensure the use of AI is responsible and safe?
+
+Generative AI
+
+Chairman, the training of GenAI requires large amounts of data, some of which could be private in nature. How could the Government better protect our personal data from inappropriate use in this regard? 
+
+Also, GenAI requires large amounts of compute and power to train and operate, and so do our other digital needs. These require power-hungry data centres. How could we power our digital future, our future data centres sustainably?
+
+Digital Security and Resilience
+
+Mr Chairman, in light of the recent outages affecting our banking and healthcare institutions, how can we enhance the resilience and security of digital infrastructure and services that are critical to our digital economy and society?
+
+Also, quantum computing is expected to weaken or break current encryption algorithms that protect our digital communications and transactions. How can we ensure that our data and communications networks remain safe and secure?
+
+Third, MCI had announced previously the CISO-as-a-Service last year, to help SMEs develop tailored cybersecurity health plans based on their risk profile and appetite. Could MCI provide an update on its implementation?
+
+Digital Enterprise Blueprint
+
+Mr Chairman, MCI had announced the launch of industry consultations for the Digital Enterprise Blueprint last year to bring together industry leaders, trade associations and companies across different sectors to better derive insights and solutions to meet Singapore businesses’ digital needs. Could the Ministry provide an update on the progress in this regard?
+
+The Chairman: Mr Eric Chua, please take your two cuts together.
+
+Online Harms
+
+Mr Eric Chua (Tanjong Pagar): There have been recent media headlines: "Youth committed series of sexual offences involving multiple victims, including minors"; "Eight weeks’ jail for voyeur who filmed female colleague using toilet"; "Teen admits to sexually assaulting his two younger sisters multiple times"; "A 12.3% increase in voyeurism cases from 2022 to 2023: one of five things the Singapore Police Force wants us to know from their recent annual crime brief". 
+
+ I could go on, but Members would be well aware of these recent high profile headlines. What raises the alarm for me is this: while there is a general decrease in the overall number of youth arrests over the last decade, youth sexual offending has bucked the trend. According to SPF, the number of youth offenders who committed outrage of modesty and rape offences climbed by 48.6% from 109 cases 2016 to 162 in 2020.  
+
+4.45 pm
+
+To better understand this, I asked to speak with some youth sexual offenders some time ago. I separately spoke to three young offenders at length, spending about an hour with each of them. The three I spoke to came from diverse backgrounds, but not all had challenging family situations. Based on what they shared with me, one commonality struck me: how each of them struggled with addiction to the consumption of sexually explicit materials.  
+
+To be sure, we are talking about anecdotes from the experiences shared by three individuals. While this is by no means representative, one also should not simply wave this revelation away.  
+
+The pervasiveness of digital technology has opened new avenues for exposure to and consumption of sexually explicit materials, especially ones of a violent nature. While I do not claim a direct causality between pornography use and juvenile crime, extensive research has shown that adolescents' pornography use is related to more sexual aggression, both in terms of perpetuation and victimisation.  
+
+ A 2019 study conducted with high school youths in US found that male adolescents exposed to violent pornography were over three times as likely to perpetuate sexual teen-dating violence. The use of online pornography has also been linked to youth self-development and beliefs, influencing one's internalisation of appearance ideals and body surveillance. 
+
+Simply put, sexual offending as a consequence and endpoint is just the tip of the iceberg. Pornography addiction, for instance, while not actually manifesting in a crime in most instances, can continue to plague an individual's life, damaging relationships, disrupting daily routines.  
+
+It is akin to a persistent, low-grade fever, symptomatic of a slew of deep-seated problems, which if left untackled can leave potentials untapped and productivity flagging. Society pays the bill in the form of a weakened family institution and in the most extreme scenarios, an increased rate of perverse and violent crimes. With the high internet and social media adoption rates in Singapore, it is high time that we paid much closer attention to online harms and the widespread spillover impacts it has on society at large.  
+
+On a separate but related note, unrealistic body standards paraded on the internet fuel a mindless pursuit of perfection and external validation. Nearly 20%, or one in five Singaporean adults who are active social media users are at risk of body image anxiety – with men representing some 40% of this at-risk group. I admit I personally feel some pressure to stay in the right shape. So, I sometimes hit the gym after midnight, determined to squeeze in a workout before the end of a long day. However, I am almost always surprised by the fact that I always have company at the gym by the number of young people, most of whom are young men, who remain seriously committed to sculpting their bodies even at unearthly hours. 
+
+Yes, for as long as we can remember, traditional media like the big and small screens – that is, film and TV – has led the charge in peddling unrealistic body standards. However, the proliferation of social media and the democratisation of content creation has only intensified peer comparison and hyper-fuelled unrealistic expectations of our own body image. 
+
+Simply put, the need to be that perfect bod is as real as it gets. Much of the conversation thus far, frames body image insecurities as a women's issue, but we know that is far from the truth. Men too face pressures and in the process, are actively discouraged to acknowledge or share about their own insecurities. 
+
+At its core, we need to begin a conversation on what masculinity means in Singapore society today. I recently chanced upon an article on NPR.org and I thought would like to leverage its content and run a little thought experiment with Members in this Chamber today. I hope many of you are listening to me. 
+
+I am going to read out three pairs of descriptors and Members can decide for yourself, which set of descriptors, either the former or the latter, more aptly describes what it means to be masculine. Here we go.
+
+The first set: expressing anger over expressing sadness.
+
+The second set: swearing that we are fine even when we are actually not versus reaching out to loved ones and trusted friends when in need.
+
+The third set: augh in the face of fear and danger versus being vulnerable about thoughts and feelings. 
+
+In your opinion, Members of the Chamber, which group better describes masculinity? You do not have to make known your position or your answers to me, much less take a vote on this – you do not have to reach for the buttons. I hope this simple exercise illustrates the effect of stereotypes at work.
+
+Admittedly, this is a difficult conversation to have. To some, even talking about redefining masculinity is perhaps effeminate and even emasculating. We are increasingly seeing arrangements that go against the strand of what traditional masculinity looks like: stay-home dads who step into primary caretaking roles; dating down where the woman in heterosexual relationships has a higher earning power, all of which come with their challenges and stigma to tackle.  
+
+Rounding back, the concerns I have expressed on online harms and its impact on society, especially young men, is something we collectively need to tackle: from Government, community, families, parents and that is a work-in-progress. But at the heart of it all, we also need to have a mindful dialogue on what it means to be man enough in today's context.
+
+Technology and Seniors
+
+Sir, Queenstown is the first Housing and Development Board (HDB) satellite public housing estate in Singapore and is home to many residents who are seniors. With almost a third of Queenstown's residents age 60 and above, we have implemented several programmes and municipal enhancements to ensure that seniors can age well in place.
+
+For instance, the hilly terrain and wide roads of Mei Ling Street and Stirling Road pose a safety concern for seniors when they cross the roads. To enhance safety and to allow seniors the respite of a brief pitstop, the central dividers between have been widened, amongst other enhancements. 
+
+There are various programmes in Queenstown that serve seniors well too. These include mental health programmes like SafePod, workshops on future care planning and a Seniors' Festival that is currently in the works. This Festival aims to empower our seniors, show them and their family members that one does not have to fear ageing and that there are many ways through which one can still enjoy their golden years.
+
+Queenstown is also part of the Queenstown Health District pilot, which aims to leverage the diverse expertise of partners to create integrated solutions to enhance the health and wellbeing of Queenstown residents across their life stages. One such partner is the Lions Befrienders. At the Active Ageing Centre at Mei Ling, they will be launching the Gym Tonic, a strength training programme that tracks seniors' fitness and progress using senior-friendly gym machines. They have also harnessed technology to develop a system called i-Boleh, which allows seniors to self-account to Lions Befrienders' staff while offering games that help improve seniors' cognitive skills and reduce the risk of dementia.
+
+Despite the many programmes that we have put in place for our seniors, one persistent pain point they face is catching up with technology. One constant feedback that I hear from seniors is the need for ATMs, especially those with the passbook update function. Many shared with me that having to travel a distance away to the next nearest ATM is of great inconvenience to them. This is especially so when they are less mobile. I feel their pain when they narrate their challenges to me.
+
+Despite the proliferation of digital banking, many seniors I spoke to still preferred transacting in cash. Some have expressed unfamiliarity with digital banking apps; others feared being scammed. Their concerns are not unfounded. Understanding their concerns, I have appealed multiple times to our banks although I have not always been successful. But I am not giving up.
+
+While some seniors are hesitant, I take heart in the fact that many of them remain open to learn how to go digital and pick up tips on how to stay safe online. That is why I am appreciative that Leng Kee Community Club (CC) – located within Queenstown – has been designated by the SG Digital Office (SDO) as a SG Digital Community Hub. SG Digital Community Hubs were initiated by IMDA as part of Singapore's digitalisation push and are conveniently located in various parts of our heartlands. The hub at Leng Kee CC is open daily from 10.00 am to 6.00 pm. Seniors get one-on-one guidance in a customised fashion to equip them to go digital.
+
+The Seniors Go Digital Activity Pack gamifies the learning experience and encourages seniors to continue learning on their own with online resources. Given Singapore's rapidly ageing population and Queenstown's super-aged resident profile, SG Digital Community Hubs would become more important in equipping seniors and seniors-to-be for digital life as technology continues to evolve.
+
+To this end, I would like to ask the Ministry what percentage of seniors, islandwide, have been engaged by the SG Digital Community Hubs and what is the take-up for these Seniors Go Digital Activity Packs thus far?
+
+In addition to the Community Hubs, the Mobile Access for Vulnerable Seniors is another scheme that has been implemented in recent years. It provides subsidised smartphone and mobile plans to lower-income seniors who want to go digital but cannot afford them. To qualify, individuals must be 60 years old and above and a current beneficiary of the Ministry of Social and Family Development's Long-Term or Short-to-Medium-Term ComCare assistance or under HDB's Public Rental Scheme. 
+
+In addition, our seniors are also encouraged to step up and pick up a basic digital skill at our Community Hubs. Eligible seniors enjoy a two-year mobile plan at $5.10 per month and can purchase a smartphone for a one-off cost of as low as $20. Given the importance of online communication today, such schemes encourage more seniors to digitalise and be plugged in to the community and stay connected with the family at the same time.
+
+So, I would like to ask the Ministry, how has the response and take-up rate been like among seniors for this scheme?
+
+As we continue to equip our seniors for the digital age, technology can be harnessed to preserve a sense of emotional connectedness. Members may have heard of VintageRadio.sg – a digital service designed for seniors to keep them informed, entertained and engaged. Through an app, VintageRadio.sg aims to build confidence in seniors to explore an unfamiliar digital world by evoking a sense of familiarity as they do so.
+
+Playing popular multilingual tunes from the 1950s, 1960s and 1970s and having veteran presenters such as Patrick Kwek, Brian Richmond, Rahimah Rahim and PN Bala guide them through the app are examples of how familiarity is injected into the digital-learning journey. These tunes and presenters will be familiar to many of our seniors and having them as company makes the digitalisation journey hopefully a little less intimidating.
+
+At this juncture, I would like to compliment the VintageRadio team for providing one more important channel through which our seniors can stay digitally as well as emotionally connected.
+
+Sir, in conclusion, seniors and technology does not have to be like oil and water. Adopting technology does not have to mean that services automatically become less personal or high-tech and low-touch. Instead, the use of technology must be like enhancing plain water by infusing it with fruits or herbs, adding colour, taste, nutrition even.
+
+So, for colleagues in the Ministry, my final question is this: what then is our uniquely Singaporean-infused water recipe?
+
+The Chairman: Ms Jessica Tan, please take your four cuts together.
+
+Potential of AI and Capability Building
+
+Ms Jessica Tan Soon Neo (East Coast): Thank you, Mr Chairman.
+
+Mr Chairman, as part of Budget 2024, Deputy Prime Minister Lawrence Wong announced that $1 billion would be put into the National AI Strategy 2.0 (NAIS 2.0) over the next five years to help boost Singapore's AI capability, capacity and value with the twin goals of excellence and empowerment.
+
+AI and GenAI have the potential to transform industries and improve our quality of life, reimagining the way we live and work. AI development and deployment are however, not without risks, such as bias training data or algorithmic design, privacy concerns with the analysis of large amounts of data, the complexity and sometimes, the lack of transparency of AI systems. There are also concerns with security risks with the sophisticate use of AI to exploit vulnerabilities in systems. Despite the risks, GenAI and machine learning with capability to learn from large amounts of data efficiently can predict potential cyber threats and secure systems. 
+
+5.00 pm
+
+For Singapore, the strategic bets are to leverage AI to address big challenges, such as population health and climate change. How will we be able to develop capability and enable improved productivity and competitiveness of businesses and Government with AI and to prepare our workforce, especially our lower-skilled workers, that will be disrupted by the use of AI to reskill and to be prepared for the opportunities? How will we address and minimise the risks of AI? 
+
+Digital Talent and Capability
+
+Mr Chairman, technology is important but without having people to imagine what is possible with technology and capable of utilising, developing and innovating with technology, we would not be able to realise the potential and value of technology.
+
+By 2025, Singapore's economy would need another 1.2 million digitally-skilled workers. These were the findings of a report in 2021, commissioned by Amazon Web Services, amongst six Asia Pacific (APEC) countries. 
+
+With the push for digitalisation not just in Singapore, but around the region as well, there will be increased competition for talent. How will we ensure that we build the capability, grow and retain the talent and skills required to support our digital ambitions and growth? With the pervasiveness of technology and digitalisation, including AI, we can expect every job role to be redesigned in some shape and form. 
+
+Most jobs will need some form of digital literacy. Training and reskilling will be required. How can businesses be supported, especially less digitally-ready SMEs, to develop digital capabilities to improve productivity and competitiveness?
+
+Preserving Trust in the Digital Domain
+
+Mr Chairman, in Singapore, with rapid technology development, the push to digitalise and the greater use and reliance on digital technologies is very much a part of how businesses operate and how people work across many sectors. For individuals, digital is very much a part of life – from our social interactions, buying and paying for goods and services to leisure and entertainment. 
+
+With the increasing reliance on digital for how we live, work and play, how will the Government foster a trusted digital environment, resilience and security of Government services and the responsible use of digital technology, including AI? How will we assure our people of service availability, protection of their personal data and the security of their digital transactions? How is the Government ensuring that Singapore's digital infrastructure remains secure and resilient so that businesses can have the confidence to do business digitally and offer their services seamlessly, reliably and securely? 
+
+Digitalisation – Better Lives of Singaporeans
+
+Mr Chairman, the vision of our Smart Nation is, "a Singapore where people are more empowered to live meaningful and fulfilled lives, enabled seamlessly by technology, offering exciting opportunities for all." At its core, the Smart Nation is about people and making lives better. The Smart Nation objectives are to improve the everyday convenience and the quality of life of Singaporeans, drive greater business effectiveness and value and support new areas of innovation and ensure that no one is left behind. 
+
+With the Smart Nation now in its 10th year and digital being very much a part of life in Singapore, how has the Smart Nation translated to opportunities for businesses and jobs for Singaporeans? How has the Smart Nation and the push for digitalisation improved lives of Singaporeans?
+
+The Chairman: Ms Hany Soh, you can take your two cuts together.
+
+Human Touch amidst Digitalisation
+
+Ms Hany Soh (Marsiling-Yew Tee): (In Mandarin): [Please refer to Vernacular Speech.] According to last year's Singapore Digital Society's Report, more Singaporeans are using digital skills in their daily lives. Among them, the most significant progress is in the use of mobile applications for payments and internet browsing by the elderly. However, there is still a need for improvement, in understanding and using new technologies.
+
+Many elderly residents in Woodgrove have also expressed to me that while they acknowledge the benefits of digital technology in their daily lives, they feel almost powerless to keep up with the rapid developments and transformation of these digital technologies.
+
+(In English): Chairman, getting the buy-in of the entire nation to embrace digital transformation is an incredible task. While the advantages of digitalisation are universally recognised, there are some who remain reluctant to adopt it. Having listened to my Woodgrove residents, I gathered that many seniors face difficulties keeping up in the nation's progress towards digitalisation. For most of them, learning with a patient and personal touch is much more preferred and effective.
+
+As we continue to introduce new technologies, we must first understand the needs of the end-users and the overall user experience as well as ascertain the most effective modes of imparting the knowledge and skills for operation. But everyone learns in different ways. As a whole-of-society charges towards digitalisation, have we paused to ponder whether we have been sufficiently and adequately inclusive of our seniors and residents with special needs? 
+
+Therefore, I implore MCI to spearhead the effort to ensure that in-person alternatives will always be readily available for those who are lost and feel helpless in seeking to embark on their digital journey. Take our typical neighborhood library for instance: seniors would much prefer approaching the librarian or receptionist for assistance, rather than having to resort to a virtual helpdesk. 
+
+So, I ask, how will the Government ensure that our seniors are equipped with the essential skills to enable them to participate meaningfully in a rapidly transforming digital society? 
+
+Secondly, how can MCI balance the seemingly competing interests of preserving the human touch versus ensuring that our digitalisation progress is not impeded amidst our increasingly digitalised society, particularly for future Government programmes to be rolled out and engagements with the community?
+
+Mobile Library
+
+Mr Chairman, every third Saturday of the month, many of my Woodgrove residents enjoy bringing their little ones to our Woodlands Regional Library – where their children aged four to six partake in a fun-filled afternoon, listening to engaging stories and participating in book-based activities, such as crafts and quizzes.
+
+Events like these that are meticulously planned by the National Library Board (NLB) are greatly appreciated and many of my residents have shared their feedback with me that they hope to see more similar events happening in the community, even outside the library.
+
+In this regard, I understand that Molly Mobile Library services provided by the NLB may be able to fulfil such wishes. Since its inception in 2008, MOLLY mobile library has been travelling around Singapore bringing books, services and programmes to under-served communities which do not have ready access to public libraries. 
+
+Can MCI update on the outcome achieved thus far and whether there are plans to expand the scope and outreach efforts to better promote reading and lifelong learning in the community at places, such as community clubs, senior activity centres and preschools?
+
+The Chairman: Minister Josephine Teo.
+
+The Minister for Communications and Information (Mrs Josephine Teo): Mr Chairman, I thank all Members for their cuts. 
+
+A decade ago, we launched the Smart Nation initiative – with the vision for Singapore to be a nation where people live meaningful and fulfilled lives enabled by technology, offering exciting opportunities for all. There is no doubt that technology has become a big part of Singaporeans' daily lives. Overall, 84% say that digital technologies have made their lives easier and more than half are prepared to try new technologies. 
+
+In January, Parliament debated extensively on a Motion on digital inclusion and safety. For the Committee of Supply (COS) therefore, MCI will cover three other important aspects of Smart Nation development.  
+
+First, leveraging technology to uplift our collective potential. Second, upholding trust in the digital domain. Third, safeguarding our infrastructure of fact. During the Budget and Committee of Supply debates thus far, no fewer than 15 Members of Parliament have mentioned AI developments in their speeches. Overall, they supported the more than $1 billion committed over the next five years to catalyse AI activities in Singapore. 
+
+ As Deputy Prime Minister Lawrence Wong pointed out, AI is a general-purpose technology that will find many applications, some of which we cannot yet imagine. But it is not the only type of technology Singapore has invested in. For example, we have also built capabilities in quantum technology. Nonetheless, given the current strong interest in AI, I will expand on the Government's plans to strengthen the AI ecosystem in Singapore and guard against its risks.  
+
+Last December, we launched our refreshed National AI Strategy (NAIS 2.0), as one of the key planks of our Smart Nation effort. It builds on investments made under our first National AI Strategy that was launched in 2019. MCI agrees with Ms Mariam Jaafar that our AI ambitions should not be driven by hype. 
+
+ While we have invested to build Sea-Lion as a means to grow our capabilities and test the hypothesis that that there is value in training large language models (LLMs) on Southeast Asian languages, we have avoided headlong competition with builders of big frontier models which cost much more. Like Ms Mariam Jaafar, we believe that Singapore's interests are better served through the deployment of use cases, based on the most suitable foundation models that can be developed anywhere in the world.
+
+Among other goals, NAIS 2.0 aims to create new peaks of excellence in leading economic sectors and areas aligned with our Smart Nation priorities. Earlier today, Minister Gan Kim Yong announced plans to partner 100 companies to set up AI Centres of Excellence (CoEs) and spur AI development in key sectors, like manufacturing. Later, Senior Minister of State Dr Janil Puthucheary will also update Members on plans to boost the infrastructure that powers AI activities. 
+
+I will focus on talent development and governance. 
+
+In the world of AI, we can think broadly of three communities: AI Creators, who generate cutting-edge AI research, design frontier systems and drive novel use cases; AI Practitioners, who have the skillsets to implement and deploy AI systems, models and algorithms in organisations; and AI Users, who are equipped to use AI-powered solutions and services, increase productivity to take up better jobs.
+
+Every city with some AI ambition wants these creators, practitioners and users – as many as they can get. The competition is extremely intense, as alluded to by Ms Tin Pei Ling and Mr Sharael Taha.  
+
+Take Dr Koh Pang Wei for example – an award-winning AI Researcher who is currently based at the University of Washington. Dr Koh is highly sought after because he focuses on building AI models that can work with imperfect data, which is a common problem in real-world applications. During the COVID-19 pandemic, Dr Koh developed novel methods to estimate the movements of people from raw data. This led to models that helped governments understand the spread of the COVID-19 virus and inform reopening policies around the world. 
+
+Dr Koh is a born and bred Singaporean. As much as we would like him to come home, we also recognise the value of the networks that he is plugged into because of his current appointment. 
+
+In fact, there are other researchers like him from diverse nationalities who would like to work more with us. We welcome them and will soon launch a new AI Visiting Professorship for world-class AI researchers to collaborate with Singapore. We will also partner AI Singapore and our universities to launch a new AI Accelerated Masters Programme to grow our pipeline of Singaporean AI researchers. 
+
+At the same time, we will triple the pool of AI Practitioners here to 15,000 over the next five years. Practitioners include data scientists and machine learning engineers and who develop and translate the use of AI in organisations across the economy. 
+
+5.15 pm
+
+Take the example of SG Digital Scholar Mr Joshua Wong. The SG Digital scholarship gave Mr Wong the opportunity to study computer science in Cambridge University, gain exposure to AI research and build networks with some of the best global talent in AI. This helped him to fulfil his dreams to be an entrepreneur.
+
+In 2020, he co-founded Hypotenuse.AI, a start-up which provides an AI-powered platform for businesses to create marketing content in seconds. Today, Mr Wong continues to enjoy networking opportunities with fellow scholars and mentors younger talent. We will support more young Singaporeans with similar aspirations as Mr Wong.
+
+As an initial step, we will invest over $20 million in the next three years to enhance AI practitioner training for students. This will cover AI-related SG Digital scholarships and overseas internships in AI roles. Beyond students, we will also support recent graduates and mid-career workers who wish to become AI Practitioners.
+
+IMDA plans to scale up the TechSkills Accelerator, or TeSA. It will provide funding support to employers with relevant career openings to induct and equip locals through upskilling opportunities and industry-relevant training. 
+
+In parallel to efforts to grow the Creator and Practitioner communities in Singapore, we will equip the broader workforce to be confident AI Users. This may be the best way to forestall AI-induced job displacement which many Members, including Mr Yip Hon Weng, have expressed concerns about.
+
+As with previous waves of technology proliferation, workers worry about being replaced. With AI, it is not just rank and file workers, but professionals, managers, executives and technicians (PMETs) who feel at risk, that AI tools and agents can take over the tasks that they currently perform. These include knowledge-based tasks, like research, coding and writing. 
+
+Many thoughtful observers have, however, pointed out that it is not so much AI displacing the workers, but AI-proficient workers displacing AI-deficient workers. As Members know, the People's Action Party (PAP) Government has a consistent record of investing in upskilling and reskilling workers, often ahead of demand and in partnership with the National Trades Union Congress (NTUC). We will continue to do so.
+
+Let me provide an update on the Jobs Transformation Maps (JTMs) and how they support workers impacted by AI, which Mr Sharael Taha asked about. There are now 16 JTMs that identify job roles affected by various technologies, of which 13 specifically outline the impact of AI. These JTMs cover at least 1.4 million workers in hundreds of job roles.
+
+While we cannot fully predict the scope and scale of AI disruptions, these JTMs provide useful signposts for employers, unions and workers, so they can plan for job redesign or training interventions. Consequently, many of the NTUC's company training committees refer to them. Agencies responsible for sector development can also identify suitable training interventions.
+
+For example, the IMDA appointed five training partners under the Information and Communications JTM in September last year. They now offer over 180 AI-related courses. As of December, they have trained about 1,000 people to be confident AI users. There will be thousands more in the next three years.
+
+This year's Budget has also provided a generous top-up to SkillsFuture Credits and the Level-Up Programme for mid-career Singaporeans looking to reskill through full-time diploma programmes. IMDA will work with SkillsFuture Singapore to ensure that there are suitable offerings to help more of our people gain AI-proficiency and stay relevant in the workforce.
+
+And, as suggested by Mr Gerald Giam, we already go beyond training programmes to promote hands-on learning. A very good example is the NLB's MakeIT programme, which allows participants to try their hand at 3D modelling and printing, robotics and coding. I spoke about it at COS previously.
+
+The public sector itself provides both formal and informal learning experiences to build AI capabilities. For example, we have introduced tools like Pair, our secure version of ChatGPT, to help public officers in tasks, such as writing, brainstorming, research and coding. Today, around 35,000 public officers use Pair in their work to improve their productivity.
+
+Sir, I should add that the most important strategy for sustaining high employment and minimising unemployment is continued job creation. This means ensuring that businesses continue to grow, including through the use of technologies like AI. By doing so, we need not react passively to job displacement by AI, but proactively use AI to reinstate better jobs for our people. This is why we will also invest in promoting AI adoption among enterprises, a topic which Senior Minister of State Tan Kiat How will deal with later.
+
+Let me now turn to the topic of AI governance. While we welcome opportunities that come with AI advancements, we must also guard against the risks of misuse. For example, AI can intensify existing threats, such as cyberattacks, scams, or misinformation and disinformation. Guardrails are, therefore, necessary.
+
+Mr Christopher de Souza, Mr Xie Yao Quan and Mr Mark Lee asked what we are doing to promote safe and responsible uses of AI and how we will protect personal data that may be used to train AI models. MCI recognises their concerns. At COS last year, I outlined our plan to clarify how the Personal Data Protection Act (PDPA) applies to AI systems.
+
+Following extensive consultations with stakeholders, PDPC has finalised its Advisory Guidelines on the use of Personal Data in AI Recommendation and Decision Systems and will publish this today. PDPC will next consider giving guidance on the use of personal data to train Generative AI (GenAI) systems.  
+
+Mr de Souza asked how MCI will continue to place Singapore at the forefront of AI governance. Indeed, Singapore has been recognised as an active and credible contributor to AI Governance. Last year, we launched the AI Verify Foundation, to harness the expertise of the global open-source community to promote responsible use of AI. This builds on the roll out of AI Verify, a testing framework and software toolkit, in 2022. Today, the Foundation counts organisations, such as IBM, Google, Deloitte, DBS and SIA as members.  
+
+At the World Economic Forum in January this year, we announced a Proposed Model AI Governance Framework for Generative AI (MGF-GenAI), and sought views from our partners. This framework builds on the earlier Model AI Governance Framework and reflects emerging principles, concerns and technological developments in GenAI. More recently, Singapore led the development of the ASEAN Guide on AI Governance and Ethics, which was endorsed at the fourth ASEAN Digital Ministers' Meeting held here last month.
+
+I will now move on to the second theme of my speech: upholding trust in the digital domain. Both Ms Hany Soh and Mr Eric Chua asked how we maintain the human touch, amidst increasing digitalisation. Sir, coincidentally, I spoke about this yesterday at the Ministry of Home Affairs' COS debate.  
+
+The reality is that there is no silver bullet. Digitalisation is taking place across multiple settings and changes our interactions with each other in so many ways. We will, therefore, have to feel our way forward and be willing to adjust our approaches. Where the Government is concerned, we are mindful that the delivery of public services through digital means should be carefully designed to cater to different population segments, including seniors.
+
+Two days ago, Minister Chan Chun Sing also reiterated the Government's commitment to ensure that our services remain accessible to all. For example, citizens who require support for Government services can head to any ServiceSG Centre, which can help with close to 600 services and schemes from over 25 agencies. IMDA's Digital Ambassadors also stand ready at multiple community touchpoints to provide guidance to seniors.
+
+As the digital landscape evolves, our libraries will also continue efforts to promote reading and lifelong learning. This includes NLB's mobile library service, or MOLLY, which Ms Hany Soh touched on. I thank Ms Soh, for her support and appreciation of the outreach that MOLLY has helped the NLB to achieve. Since its launch in 2008, MOLLY has served over 500 institutions, received around 1.4 million visits and facilitated about 2.7 million loans. It is obviously very proud of these achievements and will certainly continue to reach out to as many as possible.
+
+I should also add that it is not only MOLLY that brings the library to our citizens, there are other ways in which the library makes its presence felt. For example, there are pop-ups stations in busy shopping malls and other locations with high foot fall, and you will find some representation of the library in them.
+
+I will now address two other dimensions of digital trust that Ms Tin, Ms Jessica Tan, Mr de Souza and Mr Xie asked about: security and resilience. These largely concern the digital infrastructure and services that power our digital economy and enable citizens to meet their day-to-day needs.
+
+In 2023, Singapore faced disruptions in online Government services, banking and payment services, and when accessing the websites of public healthcare institutions. But we were not alone. Many countries are grappling with similar issues as they become more digitalised. For example, a data centre outage in France caused widespread disruption to government and other services. A cloud service outage in the US caused many websites to be inaccessible, including those of news outlets and airlines.
+
+To manage the impact of such disruptions, the European Union (EU), Germany and Australia have already introduced regulations to enhance the security and resilience of digital infrastructure, such as cloud services and data centres. While we cannot fully eliminate disruptions, we will do more to minimise their occurrence. An inter-agency task force led by MCI has been reviewing the evolving landscape and developing mitigating measures.
+
+We are looking at two key moves. First, we will enhance our regulatory levers. The upcoming amendments to the Cybersecurity Act will raise the cybersecurity of foundational digital infrastructure and other systems as well as entities, beyond the Critical Information Infrastructure it covers today. The expanded coverage will include data centres, cloud services and key entities that may hold sensitive data or perform important public functions.
+
+I am pleased to update Members that public consultations on the amendments were completed in January. We plan to introduce the amendment Bill in Parliament next week and will share more details then. [Please refer to "Clarification by Minister for Communications and Information", Official Report, 1 March 2024, Vol 95, Issue 128, Correction By Written Statement section.]
+
+While enhancing our cybersecurity posture is important, it is not enough. Past outages in Singapore and elsewhere have shown that disruptions can occur due to non-cyber reasons. These include misconfigurations in cloud architecture or the outage of data centres due to fires, water leakages and cooling system failures.
+
+The task force is, therefore, also studying the introduction of a new Digital Infrastructure Act (DIA), to address broader security and resilience concerns of key digital infrastructure and services, beyond cybersecurity. The DIA will focus on digital infrastructure that can cause significant impact on the economy and society if disrupted.
+
+For example, large cloud service providers and data centres are crucial to the functioning of a wide array of digital services that enterprises and consumers use daily. These operators may, therefore, need to meet higher security and resilience standards, to reduce the likelihood of systemic disruptions.
+
+The task force is conducting further studies to properly scope the DIA and develop its proposals. The challenges are complex and include the cross-border nature of digital infrastructure operators, like cloud service providers. We will also need to balance trade-offs between mitigating risks and increasing compliance costs. We will continue to consult industry players and relevant stakeholders, and ensure coherence in requirements between the DIA and the Cybersecurity Act.
+
+Second, the task force is exploring non-regulatory measures that will complement our laws and regulations. These could include providing guidance to digital infrastructure and service providers on best practices for security and resilience. While the Government does our best to ensure that digital infrastructure and services are secure and resilient, enterprises and consumers also need to play their part.
+
+For example, enterprises must have robust business continuity and incident recovery plans. Smaller enterprises can refer to resources like CSA's Cyber Essentials programme; larger enterprises should adopt CSA's Cyber Trust mark. Consumers should also be prepared to use alternatives if a digital service disruption occurs. This creates a strong incentive to service providers to buck up.
+
+5.30 pm
+
+Mr Xie asked about the risks associated with quantum computing – especially in our data and communications networks.
+
+Last June, Deputy Prime Minister Heng Swee Keat announced the launch of the National Quantum Safe Network Plus (NQSN+). Singtel and SPTel, together with another local company, SpeQtral, have since been appointed to build Singapore's first quantum safe network – the first of its kind in Southeast Asia as well. The network is expected to be ready by end 2024.
+
+We are also building capabilities to develop solutions that enable safe and trusted data sharing – something that Ms Mariam Jaafar talked about. In July 2022, we launched the Privacy Enhancing Technology Sandbox Initiative to support businesses in piloting technological solutions that allow them to safely extract value from data whilst protecting personal data and commercially sensitive data.
+
+Mastercard was one of the participating businesses which piloted a solution to share information on financial crime across international borders while complying with prevailing regulations. Mastercard is now studying the implementation of this in a commercial setting.
+
+I now turn to the third and final theme in my speech – safeguarding our infrastructure of fact to uphold social cohesion. This infrastructure has several pillars.
+
+Internationally, we have witnessed how deepfake technology has been misused to spread falsehood and manipulate public opinion on gun violence in the US; the Israel-Hamas conflict and even undermine election integrity. Their realism makes them a particularly dangerous weapon, as pointed out by Mr Christopher de Souza, Ms Tin Pei Ling and Mr Eric Chua. We take a strong stance against malicious AI-generated content. Targeted legislation to deal with them swiftly is thus one pillar in this infrastructure.
+
+This includes the Protection from Online Falsehoods and Manipulation Act, which enables us to issue corrections and label AI-generated misinformation with the correct facts. We can also consider disabling directions if the content poses serious harm to public interest.
+
+Another pillar is public education initiatives to equip Singaporeans to be discerning consumers and producers of information. Our libraries play a key role in this effort. Last year, NLB introduced resources and workshops on GenAI as part of its S.U.R.E programme to educate Singaporeans about the benefits and perils of AI, as well as impart skills to verify and fact-check online content that may be AI-generated. These efforts have reached over 66,000 people.
+
+Later this year, NLB will roll out new programmes and learning packages to educate Singaporeans about the risks that AI-generated misinformation can pose to society. We also recognise the need to grow new capabilities.
+
+We previously announced that MCI and the Agency for Science, Technology and Research will launch the Centre for Advanced Technologies in Online Safety (CATOS). Among other things, CATOS will develop tools and measures to detect harmful content, including deepfakes.
+
+In a fragmented media landscape awash with AI-generated content, audiences are finding it very difficult to separate truths from falsehoods. We therefore also need trusted news media to inform and engage our people, to keep us all on the same page. This is a critical pillar.
+
+Mr Pritam Singh asked about Government funding to SPH Media.
+
+As a public service media entity, SPH Media plays a crucial role in: informing Singaporeans of issues of national importance; reflecting Singapore's values and way of life; reporting international events with a Singapore eye; and projecting Singapore's perspectives to the rest of the world.
+
+SPH Media is also an institution and repository of our shared memories. Last year, Lianhe Zaobao celebrated its 100th Anniversary whilst The Straits Times is approaching 180 years of publication. Both Berita Harian and Tamil Murasu are also well-established, catering to the needs of our Malay and Tamil language communities.
+
+However, SPH Media is facing its biggest challenge yet. The entire media industry has been severely disrupted by digitalisation and social media. Readership is declining as audiences have a multitude of choices. Traditional sources of revenue are also falling dramatically, with advertising shifting to social media and other online platforms. These problems are not unique to SPH Media.
+
+Even an established media company like The Washington Post lost US$100 million last year and had to cut 10% of its headcount, despite extensive efforts to transform. Digital-only platforms are not spared either. The Pulitzer Prize-winning BuzzFeed News shut down last April, despite hiring top journalists and opening bureaus around the world.
+
+According to The New York Times, one out of four newspapers that existed in 2005 no longer does.
+
+Prior to restructuring into a company limited by guarantee, SPH posted its first ever loss. Left to market forces and commercial stresses, it would likely have gone the way of The Washington Post and BuzzFeed. This is particularly so with its vernacular titles, which have naturally smaller audiences and which members like Mr Sharael Taha and Ms Tin are rightly concerned about.
+
+The Government decided to step in to give SPH Media a fighting chance in this new media landscape. Thus far, around $320 million has been disbursed to SPH Media across FYs 2022 and 2023. Anticipating a more challenging environment, as outlined earlier, we have budgeted to provide SPH Media with around $260 million in funding for FY 2024.
+
+This is reflected in MCI's Budget Book, as part of MCI's overall grant disbursement provided to other organisations.
+
+As I shared previously in the House, funding for SPH Media is targeted at three main areas – talent, technology and vernacular capabilities. They reflect the importance the Government has placed on quality journalism, digital transformation and upholding multiculturalism.
+
+To ensure public accountability and fiscal prudence, SPH Media Trust is structured to comprise members representing different segments of society – from commercial entities like DBS, UOB and OCBC; to local institutes of higher learning like NUS, NTU, SMU and SUTD. But ultimately, SPH Media is accountable to Singaporeans. The news industry is a people-centric business and SPH Media has a crucial public service media role.
+
+Therefore, KPIs are set to track reach and engagement across all communities, including specific targets for the vernacular outlets, youth and digital reach. MCI also requires SPH Media to report regularly on their performance in these areas and comply with relevant audits to ensure oversight of how funds are spent, as well as ownership and accountability of public service media outcomes.
+
+So far, the funding disbursed has been put to good use. SPH Media has been strengthening its digital systems to improve its outreach, in line with what other global publications have done. The New York Times and The Wall Street Journal, for example, have pivoted from print to digital-first models, adopting multimedia formats to increase their readership.
+
+Likewise, SPH Media recently adopted a new digital content management system to support its online coverage and launch mobile apps across its English and vernacular news titles. It has also made extensive efforts to improve retention and quality of its newsrooms through training, scholarships and fellowships with overseas institutions, such as the Reuters Institute for the Study of Journalism. However, there is still considerable catch-up for SPH Media.
+
+While it has maintained its overall reach and achieved a modest increase in its digital subscriptions, it did not meet all its KPIs on digital reach, youth reach, vernacular reach and average time spent on its websites and apps. Accordingly, it did not receive the full funding that was committed. 
+
+More importantly, these results show that the efforts made thus far are just the beginning. SPH Media will need to do more to maintain its relevance in this challenging media environment and will need continued support as it strives to get onto firmer footing.
+
+Mr Chairman, I hope Members agree that in an information landscape where truths have to compete with falsehoods, public service media is a critical pillar in our society's infrastructure of fact. On matters deserving public attention, such as critical global events, community news in the vernacular; or indeed, Parliamentary proceedings, profit-driven platforms may have no interest except to sensationalise or add their own spin.
+
+We also need public service media to tell Singapore's stories and project Singapore's voice. We cannot expect media organisations elsewhere to do so for us. At stake is our ability as a people to have a shared understanding of issues of the day, to know where our national interests lie and what we must do to ensure our continued success.
+
+Sustained investment in our public service media entities is therefore, not a nice to-do; rather, it is a have-to-do if we are to uphold quality journalism that supports the public good. I therefore seek Members' support to sustain public investment in public service media entities to preserve our infrastructure of fact and maintain the high trust that our public has in public service media today.
+
+Mr Chairman, with your permission, please allow me to conclude my remarks in Mandarin, returning to the topic of AI which I started with.
+
+(In Mandarin): [Please refer to Vernacular Speech.] Artificial intelligence will continue to permeate various regions and sectors worldwide including Singapore's society and economy. We must seize the opportunities to help our people and businesses prepare. To this end, I have announced several initiatives today.
+
+First of all, we will launch a new programme to attract the world's top AI creators to come to the Lion City and collaborate with local experts and scholars to establish cutting-edge technologies in our country. In order to strengthen our country's AI workforce, we aim to increase the number of professionals in this field to 15,000 over the next five years. The Government will also invest $200 million to cultivate local talents, providing them with scholarships and opportunities for overseas internships.
+
+However, while digital technology brings opportunities, it also brings risks. Therefore, we will introduce new guidelines governing use of personal data in AI systems. The Government is also exploring a new law to enhance the security of our country's digital infrastructure and services, ensuring that people can use digital technology with greater peace of mind.
+
+I have always been advocating for "digital first, but not digital only". The Government will continue to provide non-digital options for citizens who are not yet ready to go online. However, the momentum of AI development will not slow down. The Singapore Government will uphold our forward-looking governance philosophy, and adopt a people-centric approach in implementation of the said programmes. 
+
+(In English): Thank you, Mr Chairman.
+
+The Chairman: Senior Minister of State Tan Kiat How.
+
+The Senior Minister of State for Communications and Information (Mr Tan Kiat How): Mr Chairman, we have made good progress in digitalising our economy. Singapore's digital economy generated value added of $106 billion in 2022, or about 17% of our nominal GDP; up from $58 billion or 13% of our GDP in 2017.
+
+More enterprises are going digital. For example, more than nine in 10 enterprises are using e-payment today, compared to just six in 10 in 2018. Enterprises are also deploying more advanced digital solutions, such as cloud computing and data analytics. Importantly, I am heartened that our SMEs are doing so too. 
+
+In 2023, 95% of SMEs adopted digital solutions, compared to 74% in 2018. Even hawkers are coming onboard. As of November last year, 60% of our hawkers accept SGQR digital payments. The platform has facilitated an average of 5.1 million transactions or $42 million per month.
+
+5.45 pm
+
+IMDA's programmes like SMEs Go Digital and Hawkers Go Digital have moved the needle. At the same time, the pace of technological advancements, especially in AI, is picking up pace. We want to equip our enterprises and workers with the capabilities to ride this new wave. 
+
+We are developing a Digital Enterprise Blueprint to chart the next bound of our effort, which Mr Xie Yao Quan has asked about. We have been consulting extensively with sector partners and industry. We are refining the Blueprint, based on their feedback, and will put out a consultation paper in the coming months to seek views from the wider industry and from the public. 
+
+But let me take the opportunity to outline the broad contours of the Blueprint.
+
+The Digital Enterprise Blueprint aims to "Uplift our enterprises and workers in the Age of AI". We will do this through three thrusts: first, we will empower enterprises to be smarter through using AI-powered digital solutions; second, we will support our enterprises to scale faster through adoption of integrated digital solutions; third, we will equip enterprises to be safer by improving their cyber resilience. So, smarter, scale faster, safer.
+
+The Digital Enterprise Blueprint is a live document, which will be continually updated. Hence, we have started to implement some "no regrets" moves that received broad support. Let me elaborate. 
+
+Ms Jessica Tan, Ms Tin Pei Ling, Mr Sharael Taha and Mr Mark Lee and others asked how we are supporting SMEs to benefit from AI. 
+
+We will help enterprises and workers access benefits from AI capabilities through IMDA's SMEs Go Digital programme. First, for the vast majority of SMEs, IMDA curates a list of pre-approved digital solutions suitable for broad-based adoption. We have started working with the technology industry to incorporate AI capabilities in their digital solutions. I am glad to share that as of today, around 20% of these pre-approved solutions are already AI-enabled. 
+
+For example, AI capabilities are integrated seamlessly into customer relationship management solutions which help enterprises analyse customer interactions and data to suggest personalised marketing campaigns for customers. In 2023, over 3,000 SMEs have adopted and benefited from these AI-enabled pre-approved solutions. So, that is for the broad base of SMEs.
+
+Second, at the sector level, IMDA has worked with sector leads to co-develop industry digital plans (IDPs) which serve as roadmaps for enterprises, highlighting solutions which meet specific needs of the sector. We started with five IDPs in 2018. Today, we have 22 IDPs for various sectors, including sectors like wholesale, construction, retail and food services, and these IDPs cover a broad swathe of our economy.
+
+IMDA will refresh the IDPs to incorporate AI-enabled solutions that would be relevant to meet the needs of the enterprises in that sector. We have started doing so in the four IDPs that we either launched or refreshed last year, namely legal, tourism, retail and security sectors.
+
+One good example, I met a company, Ghows LLC. It is a law firm that has been using an AI-enabled proofreading tool to help check their draft contracts for conflicts and inconsistencies. I understand from lawyers that this process used to be done manually and was tedious, time-consuming and error-prone. After adopting this AI-enabled tool, Ghows saw a 50% productivity improvement and less errors. We will progressively refresh all IDPs to include sector-specific AI solutions so that enterprises can benefit from these useful solutions.
+
+Ms Tin asked about the CTO-as-a-Service, over 92,000 users have accessed resources from the CTO-as-a-Service platform and over 1,600 SMEs have benefited from the digital consultancy services. One example is food services company, Xi Men Jie (西门街). The company was overwhelmed by the numerous technology solutions in the market. The team turned to a digital consultant under the CTO-as-a-Service scheme for help to integrate their digital systems. The company achieved 15% in both manpower savings and sales growth. So, I encourage all SMEs to tap on these schemes. 
+
+For enterprises who want to do more, we are supporting them through our Advanced Digital Solutions (ADS) scheme, which brings together the technology ecosystem to curate solutions for key problems identified by the sector leads. We launched two new schemes under the ADS for enterprises to gain experience using GenAI. [Please refer to "Clarification by Senior Minister of State for Communications and Information", Official Report, 1 March 2024, Vol 95, Issue 128, Correction By Written Statement section.]
+
+The first scheme is a programme by IMDA and EnterpriseSG to provide a pilot group of SMEs with access to 13 specially curated GenAI solutions for common business functions like marketing and sales. If these GenAI solutions prove useful, we will include them in the SMEs Go Digital pre-approved list of digital solutions to benefit others. 
+
+And for the second scheme, it is for larger and more digitally-mature enterprises who are looking to develop and deploy their own GenAI digital solutions in their businesses. IMDA is launching a new initiative called Generative AI for Digital Leaders, where tech partners, including tech giants, will work with participating enterprises to help them develop and implement innovative GenAI solutions. We are heartened to see early interest from enterprises and we welcome more to sign-up for these initiatives. 
+
+Sir, let me move on to the second thrust of supporting our enterprises to scale faster.
+
+In our consultations, SMEs shared that as they started to grow, they realised that they were constrained by lack of interoperability and scalability of their digital solutions. 
+
+For example, Bread Createur, a food services SME, had adopted various sales channels and delivery platforms over time. However, they found themselves unable to collate orders automatically and track sales figures across their third-party delivery platforms and sales channels. What was an inconvenience for a small operation, quickly turned into a showstopper when they grew. Such stove-piped solutions also prevent enterprises from harnessing the full potential of digital, including deriving business insights from data analytics. 
+
+So, we will step up our effort to: (a) include more integrated digital solutions under the SMEs Go Digital programme; (b) stipulate interoperability requirements where possible for these solutions; and (c) encourage more of these solutions to be cloud-native for greater scalability. 
+
+Where integrated solutions are not available in the market, we will curate such solutions through the ADS scheme. One example is the Connected Business Suite solution available to Food Services SMEs. It enabled these SMEs to operate their frontend and backend functions in an integrated manner. With this integrated solution, Bread Createur, which I mentioned earlier, can easily track all their sales and transactions across different sales channels, including from third-party orders that are routed directly to the kitchen.  
+
+Going forward, we will work closely with sector leads and associations to introduce more pre-approved integrated digital solutions and cloud-based solutions to support our enterprises to scale quickly as they grow. Sir, at this juncture, I must stress that technology is not the silver bullet, as mentioned by others earlier. And integrated and scalable digital solutions would also require the sectors and enterprises to redesign their processes and operations.
+
+Let me now move on to the third thrust of keeping our enterprises safer. I am heartened to see that in CSA's latest cybersecurity survey findings, 75% of organisations were aware of the importance of cybersecurity. However, while enterprises are taking steps to improve their cyber hygiene, there is still much room for improvement.
+
+The same survey found that over eight in 10 enterprises in Singapore encountered at least one cybersecurity incident in a year and almost all of them suffered negative business impact. CSA also found that only one in three organisations implemented more than half of the five categories of cybersecurity measures under CSA's Cyber Essentials Certification Scheme. Lack of knowledge on how to implement cybersecurity solutions, was commonly cited as a challenge.
+
+Ms Tin and Mr Xie asked how are we helping SMEs to then improve their cyber resilience. While we will flesh this out in the Digital Enterprise Blueprint, let me give Members a broad sense of our three-tier approach. 
+
+First, we will support SMEs in taking steps to improve their cyber hygiene. We will launch a cybersecurity health check tool for enterprises so that they can assess their cyber hygiene, benchmark themselves against their industry peers and access resources for them to plug the gaps. 
+
+Those who require more support can tap on the CISO-as-a-Service scheme to engage cybersecurity consultants to develop tailored cybersecurity health plans. Enterprises that are eligible can receive co-funding support to defray the cost for this service. Thus far, 55 SMEs have benefited from this scheme.  
+
+Second, we will go upstream and raise the cybersecurity standards of the digital systems used by our enterprises. This will especially benefit SMEs with no inhouse cybersecurity resources. We will start with the pre-approved digital solutions under IMDA's SMEs Go Digital programme.  
+
+Third, we will also work with sector leads to develop industry-specific guidelines for cybersecurity. In healthcare for example, CSA worked with the Ministry of Health to develop cybersecurity guidelines to improve the cybersecurity posture amongst healthcare providers. 
+
+So, Mr Chairman, I spoke briefly about the three thrusts of the Digital Enterprise Blueprint to uplift enterprises and workers in the Age of AI by being smarter, scale faster and becoming safer. 
+
+Let me now turn to how we are developing tech capabilities within our workforce.  
+
+At the broader workforce level, more of us will need to be equipped with the right skills to effectively use digital tools in our work. With more rapid technological changes, we need to see reskilling and upskilling as part of our workplace culture and see this as a continual investment in ourselves. 
+
+Employers must also view the reskilling and upskilling of their employees as investments, so as to fully benefit from the digital systems that have been put in place. An analogy would be like having a very powerful car but not being able to go beyond the first gear. We need to upskill our employees, so that we can make full use of that more powerful engine.
+
+That is why each IDP does not only include a suite of curated digital solutions for enterprises, but also comes with a comprehensive list of relevant training courses for these digital tools. For example, the retail IDP includes courses for employees to learn how to make good use of social commerce solutions to generate more sales – including how to sell items on live streams.
+
+IMDA has also worked with SkillsFuture Singapore to provide funding support for many of these courses. So, I encourage employers and workers to make full use of these schemes. 
+
+Sufficient quality and quantity of tech talent is also crucial to realising our ambitions. Understandably, there have been concerns about prospects in the technology sector, given the layoffs by technology companies, as mentioned by Ms Tin.
+
+Technology companies across the world have been right-siting and right-sizing their operations to prioritise new areas of growth, amidst a more challenging economic climate. Unfortunately, this sometimes results in layoffs which can be very painful and distressing for those involved. Singapore is no exception and has similarly seen some layoffs by technology companies which have largely impacted those in non-technology roles.
+
+ Fortunately, Singapore remains a key node in many of these technology companies' global strategies. As they deepen and expand their involvement in the region, demand for technology talent in Singapore will continue to grow. Currently, the demand for technology talent remains strong with technology jobs across the economy account for a rising share of total employment: from 4.5% in 2018 to 5.2% in 2023.
+
+This was driven by demand from both the information and communication sector and non-information and communication sectors, with the latter accounting for around 57% of technology jobs in 2023.
+
+As more companies adopt digital, including using more advanced digital solutions like AI, we expect that this will also fuel demand for tech talent. And these are good jobs for Singaporeans. A case in point, university graduates of information and digital technology courses continue to take home the highest median monthly starting pay at $5,500 a month.  
+
+6.00 pm
+
+Ms Jessica Tan, Ms Tin Pei Ling, Mr Alex Yam and Mr Sharael Taha have asked about how we will ensure a steady pipeline of tech talent. Minister Josephine spoke earlier about our efforts to develop a pipeline of AI talent and AI-equipped workforce, including efforts to enhance the existing TechSkills Accelerator (TeSA) initiative which, to date, has placed more than 17,000 locals into tech jobs and upskilled and reskilled more than 231,000 professionals. 
+
+We are also working hard to strengthen Institute of Technical Education (ITE) and polytechnic graduates' employment outcomes in tech and provide more development pathways for them throughout their careers. We set up TeSA for ITE and Polytechnics Alliance (TIP Alliance) in 2022 to bring together like-minded partners – school leadership, tech industry associations and leading employers of tech manpower like NCS, Accenture and ST Engineering – to come together to drive change.
+
+I am heartened that employers are changing their mindset and HR practices. Instead of just looking at academic qualifications, employers are giving sufficient weight to the applicants' skills and capabilities to assess their suitability.
+
+To push for change across the industry, IMDA and the TIP Alliance launched the Skills-Based Hiring Movement, together with a handbook providing practical guidance for firms to attract, assess and develop tech talent based on competencies. Within three months, I am glad to share that the number of companies pledging their support for skills-based hiring has doubled from 100 to 200. 
+
+Oracle is an example of a company that has pledged its support for skills-based hiring and has been recruiting based on skills for their openings. As part of their commitment, their recruitment team has chosen not to highlight the education requirements in their job postings for all technical roles in Singapore.
+
+Accenture is another company that has adopted skills-based hiring. They adopted a rigorous multi-stage assessment, focusing on skills, competencies and growth potential which proved to reduce time to hire by 75% and increased quality talent pipelines by 40%. The skills-based hiring approach aligns with the shifts that we are making as part of ForwardSG to embrace learning beyond grades and create diverse pathways.
+
+Schools are playing their part. For instance, in respond to industry feedback, the Information and Digital Technologies (IDT) schools in our ITE and polytechnics have lengthened internship durations from six to 12 months. Last year, more than 400 of such polytechnic and ITE students undertook year-long internships to gain greater industry experience. I have met many of them. We will support companies which provide these year-long internships, by providing co-funding to cover the cost of training.  
+
+Ms Queenie Ng is a beneficiary of this programme. While at Ngee Ann Polytechnic, she embarked on a year-long internship with OCBC as a full stack developer, working on dashboards and architecture projects to improve operational efficiency. Queenie found the scale of the projects to be an eye-opener. In contrast to the smaller-scale school projects, the internship exposed her to more complex systems and their interconnections. This experience expanded her understanding of the dynamic tech industry and the many exciting career options it has to offer. Sir, let me speak a few words in Mandarin.
+
+(In Mandarin): [Please refer to Vernacular Speech.] Sir, artificial intelligence (AI) is taking us further down the digitalisation path. Besides bringing competitive advantages to our businesses, it also enhances the productivity of our workforce. Therefore, the Government will assist businesses, especially the SMEs and their employees, to harness AI for their benefit.
+
+So far, IMDA has collaborated across various sectors to launch 22 Industry Digital Plans (IDPs). In the upcoming updates of these IDPs, the authority will also incorporate sections on AI. Furthermore, under the SME Go Digital Programme, the IMDA will collaborate with the tech industry to incorporate AI technologies into the pre-approved digital solutions. Presently, 20% of digital solutions are driven by AI, benefitting over 3,000 SMEs. More importantly, we will collaborate with various industries to plan relevant training courses and assist workers in mastering skills, staying updated and seizing the new opportunities brought by AI.
+
+(In English): Sir, Singapore does not have the natural advantages of many other economies. We do not have a sizeable domestic market, large local workforce to tap on, natural resources. But we can well punch above our weight by being agile and making full use of technological enablers like digital and now AI, to continue enlarging market opportunities for enterprises and creating good and exciting jobs for Singaporeans and we are building on a very strong foundation.
+
+The Government will be a steadfast partner for enterprises and workers in the next phase of our digitalisation journey to uplift enterprises and workers in the age of AI. It will be an exciting journey. So, I welcome more like-minded partners to work together with us and invite all our enterprises and workers to join us on this exciting journey ahead. 
+
+The Chairman: Senior Minister of State Janil Puthucheary.
+
+The Senior Minister of State for Communications and Information and Health (Dr Janil Puthucheary): Mr Chairman, I thank Members for their cuts and their questions.
+
+Today, I would like to take the opportunity to explain MCI's approach towards Digital Government: how we need to create and are creating effective digital products, being citizen-centric by looking at Singaporeans' needs by experimenting and embracing experimentation and how we are investing in digital infrastructure and research and development. All these, so that Singapore is well-equipped to realise our Smart Nation ambitions.
+
+Sir, good Digital Government begins with understanding what citizens need and solving the problems that matter to them. Our most successful products are the result of asking the same question: what challenges do Singaporeans face?
+
+One example is RedeemSG. This lets residents claim and spend Government-issued digital vouchers, including the CDC vouchers. It has been a key enabler in our shift away from paper vouchers. The drawbacks of paper vouchers for the consumer are obvious. Merchants have faced challenges, too. The paper vouchers received had to be bundled together daily, then collected, manually processed. Reimbursement took days or weeks. RedeemSG provided a better way. Households have claimed over $1 billion in digital vouchers since 2020. Simple effective digital products can have a tangible impact on people's lives. 
+
+Ms Tin Pei Ling asked how the Government can facilitate greater citizen participation in identifying problems and co-creating successful digital solutions. Mr Sharael Taha also asked how the Government can continue to better Singaporeans' lives through new digital products.
+
+Build For Good is a good example of how we do both. This brings together volunteers to build digital solutions for fellow citizens. We adopt a problem-first approach. Ahead of Build For Good 2023, the organisers collected over 700 problem statements from the public. One of the teams tackled the problem of student counsellors having to spend time writing case notes. Their solution is a product called the NoteFlow. It is a tool for transcribing and summarising case interviews and counsellors can then focus on caring for their students. NoteFlow and other promising ideas coming out of Build For Good are prototypes and we are hopeful that some of them will mature in time and make their own contribution to the public good.
+
+Having identified the problem, we explore different solutions to tackle it: build prototypes quickly; test them out with real users; and scale the ideas which show promise. The problems the Government has to tackle are challenging, and trying different things to figure out what works best is our best bet to solve these problems for Singapore.
+
+The ideas that we experiment with, as I have described, multiple approaches to a single problem means that some of the ideas that we experiment with will not work out. Let me provide one example. This was a product called MoneySound. The team had observed that it is sometimes difficult for hawkers, especially elderly hawkers, to visually check for proof of an e-payment on a customer's device. So, having identified this problem, within a couple of months, a small team from GovTech had built a "proof-of-concept" prototype for MoneySound. It is a device which reads out incoming digital payments so that the hawkers' hands are not occupied and they do not have to look to then check this digital payment.
+
+We tested it with the hawkers but we found out that they were not keen. Their feedback was negative. They had some concerns about the installation, the maintenance of the device and also about how it worked. So, after considering these insights, the team has paused the development on MoneySound three months after it began. Come up with an idea, move quickly, establish through "proof-of-concept" whether it is likely to be well-received and, if it does not, we have to press pause.
+
+It is disappointing when these ideas do not work out as expected. But this is the process of experimentation that our Digital Government engineers are working through. But the insights from such an approach are useful and they will help us to tackle the next problem or the next iteration of the product.
+
+This experimentation approach also allows us to try multiple strategies at the same time to tackle big problems. For instance, GovTech teams have been exploring how to help citizens access relevant information from Government websites. Providing the right information for citizens in the right way is a big problem. Instead of searching for a single silver bullet, we have launched several products. Each targets a different segment of users to address different needs. 
+
+Singaporeans in need of assistance can use SupportGoWhere. It is a one-stop portal to find Government schemes or funded services. One of its key features is the Care Services Recommender for caregivers to find care services, financial support schemes and future planning tools suited to their circumstances. This enables them to find support conveniently, instead of having to navigate various Government websites in search of relevant information. They do not need to know where to go to find the relevant information. They just have one portal.
+
+But sometimes, if there is a need for more general information, so we produced another product, SearchSG, which is a search engine that uses AI to provide citizens with relevant up-to-date search results scrapped from a variety of Government sources.
+
+So, multiple strategies and try to solve the same problem. In doing so, we are able to learn about the needs and experiences of our users as they engage with our digital products. And the faster we learn, the faster we improve.  
+
+Ms Jessica Tan asked how the push for digitalisation has improved Singaporeans' lives as the Smart Nation initiative enters its 10th year. Between 2014 and 2023, citizen satisfaction with Government services has improved from 73% to 83%. Over the same period, business satisfaction with Government services has also risen, from 69% to 83%. Allow me to share some of the key strategies that we are applying, that we think have resulted in this improvement. There are three strategies.
+
+One is that we have to work to improve the day-to-day lives of Singaporeans. Secondly, in doing so, we have to offer better and more integrated Government services. Third, in doing so, we have to be more inclusive. If I could, perhaps, share some examples in each of those categories.
+
+There are many digital services available through websites, app stores or other channels. There are also needs that the market does not address or finds it difficult to address. 
+
+One example of this and it keeps Singaporeans safe from scams is ScamShield. It is difficult for there to be a market solution that can adequately protect Singaporeans in quite the same way. It is a difficult problem that affects us on a day-to-day basis. And now, we have a product, ScamShield, and it appears to be well-received – 850,000 downloads. It is one of our most wide-reaching tools in the fight against scams and I would encourage Singaporeans to use it.
+
+Second, is offering better and more integrated Government services and a couple of examples here. One is the Health Appointment System (HAS). Users can easily make appointments for vaccinations, for screenings, such as mammograms. This product is available in English, Mandarin, Malay and Tamil. Again, that is an aspect of the service that is difficult for the market to solve in the way that we need it to, in multiple languages. This product also allows users to see what subsidies are applied to their health appointments from schemes, such as CHAS and MediSave.
+
+6.15 pm
+
+And so, we are bringing together two or three different aspects of the service the market is unlikely to do – an appointment scheme provided in multiple languages and so that you can see the subsidies that you would get for these appointments at the time to help you make your decision. 
+
+Another example is MyLegacy@LifeSG. This goes a step further. It brings together reliable information and digital services related to end-of-life planning as well as post-death matters in a convenient portal. Because navigating such matters can be difficult. It is difficult, even for those of us who have thought ahead. These times of our lives do not happen very often; a lot of stress, a lot of uncertainty and a lot of things to get done, a lot of services and transactions that we need to get done. So, every bit of support helps at a time like this.
+
+One example of this sort of experience is Mr Christopher Hamzah. He is married, he has got a four-month-old daughter. And back in 2021, Mr Hamzah saw firsthand the challenges his close friend faced in settling his late father’s affairs in the midst of grieving. Learning from this experience, Mr Hamzah and his wife decided to start planning early and turned to MyLegacy for help. With the MyLegacy product, Mr Hamzah could easily record important details – his various accounts, his insurance policies – and share that information with trusted persons. He describes the portal’s dashboard as intuitive, very easy to use and navigate, and he takes heart from the assurance that this information would not be used for third-party marketing, and he has become an enthusiastic advocate for MyLegacy among his friends and family. Again, I would encourage Members to look at the MyLegacy product and encourage their residents and constituents to consider signing up for it. 
+
+The third part of our strategy is to be more inclusive.
+
+Mr Eric Chua had some questions about this and brought up some points. He asked about the mobile phone access of our seniors. Chairman, 89% of seniors aged 60 years and above own a smartphone in 2022 and this has increased from 74% in 2017. And our Mobile Access for Seniors' scheme has approved more than 16,000 assistance packages for low-income seniors since the launch of the scheme in 2020. Mr Chua also spoke about the need to better support seniors in general to navigate the digital space. And to do this, we launched the Seniors Go Digital programme, and over 280,000 seniors have been trained so far. 
+
+At the same time, we also have to take efforts to be inclusive in our design and development; take the process to our seniors. We test our digital services with a wide range of users, including seniors, to ensure that their needs are met. We have also built tools specifically to support those with differing needs.
+
+One example, and Members can try this out for themselves at Level 1, is a product called “ReadLiao”. This is one of the prototypes that emerged from our recent Hack For Public Good hackathon. Today, seniors sometimes struggle with long and complicated letters and often have to rely on caregivers, including children, to summarise the information for them. Those with older relatives might be familiar with the experience of looking at these letters, explaining such letters to them. It is often not just the language but also how the material is presented.
+
+So, ReadLiao uses Optical Character Recognition together with an AI platform, repackages and displays documents in a clear and comprehensible format to better communicate the content to seniors. We intend to pilot ReadLiao within the community in the coming months and hopefully build it into a full-fledged product. It is literally only a few weeks’ old, at the prototyping stage. 
+
+We have another tool which is more mature. This is called “Purple A11y”, GovTech’s open-source, automated testing tool. It scans webpages and it identifies potential accessibility issues. Developers can use it to identify improperly labelled buttons or images. For most of us, these are things we do not notice. These are not necessarily errors that we pick up and we do not see the difficulty that such a design might present. But if you are visually impaired, if you use a screen reader to navigate digital services, getting this type of design correct makes a huge difference. Since 2023, we have used Purple A11y to make Government digital services more accessible, and it has been directly integrated into the development for websites like MyCareersFuture, to ensure that they are accessible. 
+
+Sir, I have so far focused on digital products. But there is another aspect to the work that we have to pay some attention to – the infrastructure, the interconnected systems that must work together to make such products even possible. I would like to now explain how we are strengthening Singapore’s digital infrastructure and investing in research and development so we can continue to have a conducive environment for digital innovation.
+
+Mr Sharael Taha asked how MCI is equipping Singapore to make the most of latest technological developments, especially in AI. Ensuring Singapore has the foundational infrastructure to power AI activities is vital. To that end, we will be investing up to $500 million to ensure that Singapore can have sufficient high-performance compute to support our ambitions in AI innovation and capacity building.
+
+We envisage that these resources will support use cases across sectors, such as financial services, healthcare, transport and logistics. And over time, we hope for this seed funding to catalyse greater development and the use of AI in Singapore and spur additional industry investment in compute infrastructure. 
+
+Ms Tin Pei Ling asked about plans to implement the Digital Connectivity Blueprint. Launched last June by MCI and IMDA, the Digital Connectivity Blueprint (DCB) outlines Singapore’s strategy for building the next generation of our digital infrastructure. It covers various infrastructure components – the hard infrastructure like submarine cables which connect us to the world; the middleware that links diverse systems, applications and devices for them to work together; and many other factors. The DCB is about integrated master planning to ensure we have what we need, when we need it. 
+
+And over the next few years, we can look forward to seeing the DCB’s bold ideas come to life. This has already begun. 
+
+For example, one of the DCB’s strategic priorities is to enable seamless 10 giga bits per second (10G) domestic connectivity within the next five years. We are setting aside funds to enhance the capacity of our Nationwide Broadband Network (NBN) to make such 10G broadband a reality. IMDA will be investing up to $100 million to support operators in upgrading their infrastructure and offering innovative services at competitive prices. 
+
+Like with the NBN back in the 2000s, we are investing ahead of demand. This is to cater for upcoming opportunities in areas, such as AI, immersive digital experiences and autonomous solutions, which will require higher bandwidth connectivity. We target to complete the upgrade to the 10G NBN by 2026 and expect more than half a million households to sign up for and benefit from higher-speed broadband in the next five years.
+
+Mr Xie Yao Quan asked how we can power our digital future more sustainably. As mentioned in the Budget Speech, the Energy Efficiency Grant (EEG) will be extended to the data centre industry. With the rollout of the EEG to the data centre industry by the end of 2024, we hope more data centre operators and end-users will adopt energy-efficient equipment. EEG is just one of several efforts to grow our data centres sustainably under the Green Data Centre Roadmap, which IMDA will be launching later this year.
+
+Beyond the products, beyond the infrastructure, we also need to make sure we have access to the right technologies. This is vital. Singapore needs strong research and development capabilities to develop and tailor technologies for our local context.
+
+ For cybersecurity, we have established a CyberSG research and development Programme Office at Nanyang Technological University, with allocated funding of $62 million to support cybersecurity research. Launched last September, the Programme Office serves as a coordinating body to spearhead Singapore's efforts in translating research into commercial solutions for Government agencies and the industry. It is a key enabler to both strengthen our digital security and grow our digital economy.
+
+Mr Sharael Taha also asked how MCI is building Singapore’s research capabilities in AI. Over the last five years, we have invested more than $500 million on AI research, and our investments have borne fruit. We rank among the top 10 countries based on publications at top AI conferences. Our researchers have won international accolades, such as the Google AI PhD Fellowship, which recognises about 50 graduate students worldwide each year for their exceptional and innovative research work. In addition, we have supported close to 150 research collaborations with Government and industry partners. Some big projects, some small, some in areas that you do not expect, such as AI Singapore working with a dental chain, Q&M, to help dentists detect diseases from X-rays, perform automated dental charting and recommend dental treatment plans. I recommend all Members to have their teeth regularly checked, with AI, if necessary. 
+
+With access to the newest technology becoming increasingly necessary to attract investments, we must continue to invest in R&D to maintain our competitive edge in the global market.
+
+Sir, allow me to conclude. Digital technology is one of our most powerful tools to meet the needs of citizens and businesses. We embrace bold development and agile experimentation so that we can wield this digital technology to create the greatest possible impact for Singaporeans and for Singapore. At the same time, we have to look ahead to the horizon and invest in digital infrastructure, research and development so that we can facilitate ahead of time our goals for digitalisation. So far, this approach has been successful, and there is much more that this approach can deliver for Singapore as we enter the second decade of our Smart Nation journey. [Applause.]
+
+The Chairman: We have reached the clarification time. Ms Jessica Tan. 
+
+Ms Jessica Tan Soon Neo: Thank you, Mr Chairman. I would like to ask Senior Minister of State Janil on the upgrade of the NBN. When we saw the upgrade happening in 2006, we did see quite a few residents not signing up. So, as you talked about the half a million expected to sign up, I hope that there will be good communication to residents and businesses to ensure that they do sign up for it and not miss the cycle. And we just saw so much logistic challenges there. So, I hope that there will be a lot of communication to ensure that people understand what to do and when to sign up, so that we do not see a repeat of that. 
+
+Dr Janil Puthucheary: Sir, I thank Ms Jessica Tan for making that point. Indeed, a new product and a transition to a new – it may or may not be a new business model, depending on what the operators do – and we have to make sure that we adequately communicate this to the consumer base. So, her point is well taken and we will certainly follow up on that.
+
+The Chairman: Mr Singh. 
+
+Mr Pritam Singh: Thank you, Chairman. I thank Minister Josephine Teo for responding to my cut. Just two quick questions for the Minister.
+
+On the first point with regard to the question I asked on the specific line item in the Budget Book, which would essentially flesh out the funding to SPH Media Trust, and I thank the Minister for pointing out that it is under Grant Subventions and Capital Injections to other Organisations. In view of the large grant, can I invite the Minister to consider, perhaps in the future, a separate line item for SPH Media Trust? I say this because, in view of the funding framework and how the Government has stepped in into the public service media space, if I can call it that, I think it will be helpful for people to track, on an ongoing basis, how much taxpayer funding goes into the funding of SPH Media. That is just a suggestion for the Ministry.
+
+The second point pertains to some of the KPIs that the Minister shared, certain KPIs that were mapped were not met. At the end of every Ministry in the Budget Book, there is a section on KPIs with key indicators of how the Ministry looks upon what services are rendered to the public and so forth. It would be helpful also perhaps, in view of the longer-term funding of SPH Media, I would suggest, to include some of those KPIs in that KPI section in the Budget Book, so that the public also can be informed of where it is doing well and where it is not. For example, I think the Minister spoke about reach, engagement, vernacular targets. So, that is just something for the Minister to consider and I would be grateful if she could comment on that, please. 
+
+The Chairman: Minister Teo. 
+
+6.30 pm
+
+Mrs Josephine Teo: Mr Chairman, I thank Mr Singh for his suggestion.
+
+I think it is not entirely up to MCI to decide how these things are reported in the Budget Book because there is a certain convention that the Government follows. I do not recall exactly, but my impression is that say, you take public transport subsidies, for example. I do not believe it is reflected in the Budget Book as line items that it goes to SMRT; it goes to SBS Transit; it goes to another bus operator. It does not quite work like that. 
+
+Certainly, I think if you consider the funding for preschool services, I do not recall that it also goes down to entity level. It is just we provide for a cluster of activities. We do not necessarily reflect in the Budget Book exactly what sums go to which entities. I could be wrong, but it is certainly something that we will look at. But it is not entirely up to MCI how to show these things in the Budget Book.
+
+The same goes for KPIs. In the Budget Book, we report on the KPIs that the Ministry is required to meet. The Ministry interacts with many other stakeholders.
+
+For example, for MCI, we are responsible for IMDA. IMDA has got interactions with telcos. We may not provide funding to them, but we license them. They are also very critical service providers in Singapore. They also have KPIs to be met in order to continue to hold their licence. It does not mean that we lock, stock and barrel, transport the KPIs into the Budget Book. It is quite a different way of representing the scope of our responsibilities.
+
+I thank the Member for raising these as possibilities. I think his broader point is that the public would benefit from more information about how these entities, the public service media entities are doing.
+
+I think these are very reasonable questions. We will have to find more ways of putting information out that is reasonable. I would, however, add, Mr Chairman, that we can continue to look at things like reach, readership, engagement. But if we come back to the fundamentals of why we are supporting public service media, it goes back to the question of whether Singaporeans have media sources that they can trust. It is trust that is the most important.
+
+I think in that regard, at least the Reuters Institute, which Mr Singh himself mentioned, does have an annual report that is quite useful. It looks at, amongst media organisations, the most trusted brands in Singapore. Mr Singh cited the findings of 2021, where he said that The Straits Times, which is one of the titles belonging to SPH Media Trust, came in at 77%, I believe.
+
+I think, if I could just say how useful that report is in helping us to shape our own thinking. The latest report that has already been made available is of 2023. If you look at the 2023 report, you will find that within Singapore, amongst the top five most trusted brands, all are public service media entities from Singapore, homegrown. If you look at the top 10, then eight of them are our own public service media entities.
+
+If we were to remove our own public service media entities, what we are really left with will be CNN, which is a US company. We are left with the BBC, which is a UK company. Then we are left with Yahoo News. If you then use that as a lens of thinking about why and how we should continue to resource our own public service media, I think in some sense that beats all the indicators that we can put in place.
+
+I am not saying that those KPIs are not important. I think they have to be continuously evaluated together with other kinds of validation which Mr Singh himself highlighted.
+
+The Chairman: Ms Hany Soh.
+
+Ms Hany Soh: I thank the Minister on her earlier clarifications to Mr Singh. On the same note in relation to KPIs, I also strongly urge MCI, in terms of the KPI considerations, we should look at several factors, notwithstanding that certain KPIs are unfortunately not met due to the existing circumstances. We should also focus in terms of other priorities, emphasising perhaps on other KPIs' importance in terms of, for example, what the Minister has said on public trust.
+
+To me, another very important critical factor to also take into account is branding. For example, brands like The Straits Times and Lianhe Zaobao – how it relates back to our Singapore's brand and identity, reflecting to the outside world of what is exactly happening in Singapore, inviting for more foreign investors to come to Singapore. These are the good avenues and ways where we want to reach out to the outside world. And that should never be forgotten.
+
+Mrs Josephine Teo: Mr Chairman, I fully agree with Ms Soh. It is true. In management speak, we like to say what gets measured gets done. So, there is a certain interest in ensuring that there are KPIs.
+
+But within MCI, we ourselves are fully cognisant that it does not fully reflect what we need our public service media entities to achieve. The standing that they enjoy in the world is not entirely measurable. The identity that they help to foster among Singaporeans, the unity, you also cannot quite put a number to it. It is not so easy to apply a metric.
+
+We are very cognisant of the fact that the set of indicators that we use today is probably going to be very inadequate. So, we are constantly in discussion with our public service media entities on whether there are better ways to reflect their progress. So, Ms Soh's points are very well taken.
+
+The Chairman: It looks like there are no more clarifications for the Minister and the two Senior Ministers of State. Could I invite Ms Tin Peh Ling, if you would like to withdraw your amendment?
+
+Ms Tin Pei Ling: With so much to do, Chairman, I beg leave to withdraw my amendment.
+
+Amendment, by leave, withdrawn.
+
+The sum of $2,378,410,000 for Head Q ordered to stand part of the Main Estimates.
+
+The sum of $327,254,700 for Head Q ordered to stand part of the Development Estimates.
