@@ -1,6 +1,6 @@
 from openai import OpenAI
 client = OpenAI(
-    base_url="http://34.142.153.101/v1",
+    base_url="http://34.124.152.149/v1",
     api_key="abc123",    
 )
 

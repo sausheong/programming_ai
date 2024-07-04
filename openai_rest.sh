@@ -19,7 +19,7 @@ curl https://api.openai.com/v1/chat/completions  \
   
 # VLLM
 
-curl http://34.142.153.101/v1/chat/completions \
+curl http://34.124.152.149/v1/chat/completions \
   -H "Content-Type: application/json" \
   -H "Authorization: Bearer abc123" \
   -d '{       
@@ -58,13 +58,13 @@ curl http://localhost:11434/api/chat \
 
 # TGI
 
-curl http://34.142.153.101/generate \
+curl http://34.124.152.149/generate \
     -H 'Content-Type: application/json' \
     -d '{
         "inputs":"Whis the sky blue?"
     }' | jq '.'
     
-curl http://34.142.153.101/v1/chat/completions \
+curl http://34.124.152.149/v1/chat/completions \
   -H "Content-Type: application/json" \
   -d '{       
     "model": "meta-llama/Meta-Llama-3-8B-Instruct",
